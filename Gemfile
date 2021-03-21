@@ -1,6 +1,6 @@
 
 source 'https://rubygems.org'
 
-gem 'cocoapods'
+gem 'cocoapods', '>= 1.8.3'
 gem 'cocoapods-core'
 gem 'xcodeproj'
